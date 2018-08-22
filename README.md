@@ -1,13 +1,8 @@
-# Hello-World
-Test to see how GitHub works
+# Hello-World repository
+## Test to see how GitHub works
 
-# Test with titles
-by using a '#' it seems that I can write titles
+In this repository you will only find Hello-World and test files. The main purpose for this repository is for me to play around with Git/GitHub, and see how it works.
 
-## Let's see what two hashtags do. 
-intresting...
+Currently there should be an Hello World python file and C++ file
 
-### Or even three.
-does it make any difference?
 
-what happens when I do this?
