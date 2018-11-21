@@ -1,1 +1,1 @@
-print "Nieuwe file" 
+print(Nieuwe file) 
